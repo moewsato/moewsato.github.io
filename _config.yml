@@ -13,7 +13,7 @@ url:                 http://tartaricacid.github.io
 # i.e. `http://<username>.github.io`
 baseurl:             # http://tartaricacid.github.io
 
-title:               酒石酸菌
+title:               twxt
 
 # Pagination
 paginate:            5
@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  哇，你发现了一个神秘的地方，奖励你一朵小红花。
+ 打开 <a href="http://www.baidu.com" target="_blank">百度</a>,测试
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [wiki, essay]
@@ -37,7 +37,7 @@ load_google_fonts:   'consolas'
 
 # About yourself
 author:
-  name:              '酒石酸菌'
+  name:              'text1'
 
   # This photo will be used in the about section
   photo:             https://avatars2.githubusercontent.com/u/19620085?v=3&s=466

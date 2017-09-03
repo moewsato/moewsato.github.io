@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 相关说明
+title: 页面相关
 ---
 
 {% comment %}
@@ -8,5 +8,3 @@ title: 相关说明
   You can edit it there (jekyll needs restart!) or remove it and provide your own photo/text.
 {% endcomment %}
 {% include about-short.html author=site.author %}
-
-
